@@ -1,5 +1,5 @@
 ## Title:       An advanced ping test when you deal with a lot of servers. 
-## Author:      wolfofsparta
+## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.2
 ## Date:        2024-02-12
 
