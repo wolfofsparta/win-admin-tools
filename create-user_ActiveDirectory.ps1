@@ -1,5 +1,5 @@
 ## Title:       Automate AD user creation with bulk option. 
-## Author:      wolfofsparta
+## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.6
 ## Date:        2024-02-27
 
