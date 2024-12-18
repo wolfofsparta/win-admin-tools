@@ -1,5 +1,5 @@
 ## Title:       Comparing between two excel files and display the unique values from the first one. 
-## Author:      wolfofsparta
+## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.3
 ## Date:        2024-02-27
 
