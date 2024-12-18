@@ -1,6 +1,5 @@
 ## Title:       A "google" search for windows servers in AD. Can be adapted for various patterns. Useful when you have a huge AD and you lost track of that good ol' server
-## Usage:       Misc
-## Author:      wolfofsparta
+## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.2
 ## Date:        2024-02-14
 
