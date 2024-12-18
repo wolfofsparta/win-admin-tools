@@ -1,5 +1,5 @@
 ## Title:       Test Authentication 
-## Author:      wolfofsparta
+## Author:      The Wolf of Sparta (@wolfofsparta)
 ## Version:     1.0
 ## Date:        2024-02-27
 
